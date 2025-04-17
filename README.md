@@ -93,7 +93,7 @@ Selection-Sort-Visualization/
 
 ## 📸 Preview
 
-![image](https://github.com/user-attachments/assets/defc6eec-65e6-4734-9d10-0b5e4ae50337)
+![image](https://github.com/user-attachments/assets/6589463c-b57d-4207-9ed5-a1896568bac6)
 
 
 *Example of Selection Sort Visualization with color-coded highlights and stats*
