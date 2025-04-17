@@ -47,7 +47,8 @@ Use this repo to get started: `Selection-Sort-Visualization`
   ```
   5, 1, 8, 3, 2
   ```
-- Click the **Visualize** button to render the blocks
+- Click the Visualize button to render vertical bars representing each number
+
 
 ### ➤ Sort
 - Click the **Sort** button to run the **Selection Sort** algorithm
@@ -101,7 +102,8 @@ Selection-Sort-Visualization/
 ---
 
 ## 📌 Notes
-- Built for academic simulation & educational purposes
-- Customize timings or animation speed via the `sleep(ms)` function
-- Fully responsive & mobile-friendly UI
+- Built for academic simulation & educational purposes.
+- Fully responsive & mobile-friendly UI.
+- Fully responsive & works on mobile devices.
+- Easy to customize (colors, bar width, input format).
 
